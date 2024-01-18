@@ -22,7 +22,7 @@ public class LoanController {
 
     }
     //Changed by @anitheesh
-    
+    //new
     @AuraEnabled(cacheable=true)
 
     public static List<LoanData> getLoanData() {
